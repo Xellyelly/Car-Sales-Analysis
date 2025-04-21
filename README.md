@@ -34,9 +34,9 @@ meaning they earn between $500,000 and $1,000,000
   
 ## Recommendation
 - `Gender Demographics`
- 1) Focus on Females: With 21.51% of sales coming from females, consider strategies to attract more female buyers. This could include targeted ads, collaborations with female influencers, or offering female-friendly car features.
- 2) Male Dominance: The majority of sales (78.49%) come from males. Explore what appeals to this demographic and ensure you're continuing to meet their needs.
+Focus on Females: With 21.51% of sales coming from females, consider strategies to attract more female buyers. This could include targeted ads, collaborations with female influencers, or offering female-friendly car features.
+Male Dominance: The majority of sales (78.49%) come from males. Explore what appeals to this demographic and ensure you're continuing to meet their needs.
 - `Income vs. Car Price`
-   3) Focus on offering a variety of vehicles that appeal to different income levels, rather than only high-end models.
+    Focus on offering a variety of vehicles that appeal to different income levels, rather than only high-end models.
 - `Seasonal offers`
-  4) The sharp sales increase in these months shows a potential surge in demand. Ensure stock availability, marketing, and promotions are aligned with this trend.
+   The sharp sales increase in these months shows a potential surge in demand. Ensure stock availability, marketing, and promotions are aligned with this trend.
