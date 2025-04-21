@@ -32,5 +32,11 @@ meaning they earn between $500,000 and $1,000,000
 - There’s no clear positive correlation between income and car price,higher income doesn’t always lead to buying more expensive cars purchased.
 - Top 3 car model are Diamante, Prizm, Silhouette
   
-
-
+## Recommendation
+`Gender Demographics`
+- Focus on Females: With 21.51% of sales coming from females, consider strategies to attract more female buyers. This could include targeted ads, collaborations with female influencers, or offering female-friendly car features.
+-Male Dominance: The majority of sales (78.49%) come from males. Explore what appeals to this demographic and ensure you're continuing to meet their needs.
+`Income vs. Car Price`
+-  Focus on offering a variety of vehicles that appeal to different income levels, rather than only high-end models.
+`Seasonal offers'
+- The sharp sales increase in these months shows a potential surge in demand. Ensure stock availability, marketing, and promotions are aligned with this trend.
