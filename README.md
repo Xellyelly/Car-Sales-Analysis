@@ -96,9 +96,10 @@ order by Price
 
 -- 15.	Retrieve all sales for cars of a specific color (e.g., 'White')
 select * from [car_dataset 2] where color ='Black'
+```
 
 ## Recommendation
-- `Gender Demographics`
+> - `Gender Demographics`
 Focus on Females: With 21.51% of sales coming from females, consider strategies to attract more female buyers. This could include targeted ads, collaborations with female influencers, or offering female-friendly car features.
 Male Dominance: The majority of sales (78.49%) come from males. Explore what appeals to this demographic and ensure you're continuing to meet their needs.
 - `Income vs. Car Price`
