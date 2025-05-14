@@ -1,7 +1,7 @@
 # Car-Sales-Analysis
 
 ##  Overview  
-This project explores car sales data to uncover trends, customer preferences, and key performance metrics.  
+> This project explores car sales data to uncover trends, customer preferences, and key performance metrics.  
 It uses SQL for data querying, Excel for data analysis, and Power BI for interactive dashboards.
 
 ## 🎯 Objectives  
@@ -31,7 +31,10 @@ It uses SQL for data querying, Excel for data analysis, and Power BI for interac
 meaning they earn between $500,000 and $1,000,000
 - There’s no clear positive correlation between income and car price,higher income doesn’t always lead to buying more expensive cars purchased.
 - Top 3 car model are Diamante, Prizm, Silhouette
-  ![Screenshot 2025-05-09 224820](https://github.com/user-attachments/assets/858e5aaf-2165-40da-bece-5e2e998bfbec)
+  ## Data visualization
+  [To view power bi dashboard click here](https://ibb.co/v4F8MFcd
+https://ibb.co/LXcMPwF7
+https://ibb.co/DDvthgjv)
 
 ## Recommendation
 - `Gender Demographics`
