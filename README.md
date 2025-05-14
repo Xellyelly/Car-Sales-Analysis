@@ -88,9 +88,9 @@ order by Price
 select * from [car_dataset 2] where color ='Black'
 ```
 ## Data visualization
- [To view power bi dashboard page 1 click here](https://ibb.co/v4F8MFcd)
- [To view power bi dashboard page 2 click here](https://ibb.co/LXcMPwF7)
- [To view power bi dashboard page 3 click here](https://ibb.co/DDvthgjv) 
+-  [To view power bi dashboard page 1 click here](https://ibb.co/v4F8MFcd)
+-  [To view power bi dashboard page 2 click here](https://ibb.co/LXcMPwF7)
+- [To view power bi dashboard page 3 click here](https://ibb.co/DDvthgjv) 
 ## dashboard
 ![Screenshot 2025-05-09 224820](https://github.com/user-attachments/assets/9c19476d-2ad9-4e7d-9ede-734e79ca6dc3)
 
