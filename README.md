@@ -1,6 +1,6 @@
 # Car-Sales-Analysis
 
-_##  Overview_ 
+##  Overview
 > This project explores car sales data to uncover trends, customer preferences, and key performance metrics.  
 It uses SQL for data querying, Excel for data analysis, and Power BI for interactive dashboards.
 
