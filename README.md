@@ -95,12 +95,12 @@ select * from [car_dataset 2] where color ='Black'
 ![Screenshot 2025-05-09 224820](https://github.com/user-attachments/assets/9c19476d-2ad9-4e7d-9ede-734e79ca6dc3)
 
 ##  Key Insights  
-> - 21.51% of the sales were made by females, while 78.49% were made by males.
 > - 4th Quarter has the highest number of sales
 > - Sales show a steady growth from January to August followed by sharp increases in September and November with the upward trend continuing into December.
 > - The majority of customers (2,000 out of 3,000) fall into the medium annual income range,
 meaning they earn between $500,000 and $1,000,000
 > - There’s no clear positive correlation between income and car price,higher income doesn’t always lead to buying more expensive cars purchased.
+> - 21.51% of the sales were made by females, while 78.49% were made by males.
 > - Top 3 car model are Diamante, Prizm, Silhouette
 
 
