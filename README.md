@@ -4,7 +4,7 @@
 > This project explores car sales data to uncover trends, customer preferences, and key performance metrics.  
 It uses SQL for data querying, Excel for data analysis, and Power BI for interactive dashboards.
 
-## 🎯 Objectives  
+## Objectives  
 - Identify best-selling car models   
 - Analyze seasonal and monthly sales trends  
 - Understand customer demographics and regional sales distribution  
@@ -91,10 +91,10 @@ select * from [car_dataset 2] where color ='Black'
 -  [To view power bi dashboard page 1 click here](https://ibb.co/v4F8MFcd)
 -  [To view power bi dashboard page 2 click here](https://ibb.co/LXcMPwF7)
 - [To view power bi dashboard page 3 click here](https://ibb.co/DDvthgjv) 
-## dashboard
+## Dashboard
 ![Screenshot 2025-05-09 224820](https://github.com/user-attachments/assets/9c19476d-2ad9-4e7d-9ede-734e79ca6dc3)
 
-## 🔍 Key Insights  
+##  Key Insights  
 > - 21.51% of the sales were made by females, while 78.49% were made by males.
 > - 4th Quarter has the highest number of sales
 > - Sales show a steady growth from January to August followed by sharp increases in September and November with the upward trend continuing into December.
