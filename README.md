@@ -32,9 +32,8 @@ meaning they earn between $500,000 and $1,000,000
 - There’s no clear positive correlation between income and car price,higher income doesn’t always lead to buying more expensive cars purchased.
 - Top 3 car model are Diamante, Prizm, Silhouette
   ## Data visualization
-  [To view power bi dashboard click here](https://ibb.co/v4F8MFcd
-https://ibb.co/LXcMPwF7
-https://ibb.co/DDvthgjv)
+  [To view power bi dashboard click here](https://ibb.co/v4F8MFcd)
+
 
 ## Recommendation
 - `Gender Demographics`
