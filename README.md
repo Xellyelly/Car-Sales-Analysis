@@ -23,16 +23,6 @@ It uses SQL for data querying, Excel for data analysis, and Power BI for interac
 - **Power BI** (Visualisation)  
 - **Excel** (Feature Engineering)
 
-## 🔍 Key Insights  
-> - 21.51% of the sales were made by females, while 78.49% were made by males.
-> - 4th Quarter has the highest number of sales
-> - Sales show a steady growth from January to August followed by sharp increases in September and November with the upward trend continuing into December.
-> - The majority of customers (2,000 out of 3,000) fall into the medium annual income range,
-meaning they earn between $500,000 and $1,000,000
-> - There’s no clear positive correlation between income and car price,higher income doesn’t always lead to buying more expensive cars purchased.
-> - Top 3 car model are Diamante, Prizm, Silhouette
-## Data visualization
-  [To view power bi dashboard click here](https://ibb.co/v4F8MFcd)
 ## SQL
 ``` sql
 -- 1 Retrieve all data from the table
@@ -97,6 +87,23 @@ order by Price
 -- 15.	Retrieve all sales for cars of a specific color (e.g., 'White')
 select * from [car_dataset 2] where color ='Black'
 ```
+## Data visualization
+ [To view power bi dashboard page 1 click here](https://ibb.co/v4F8MFcd)
+ [To view power bi dashboard page 2 click here](https://ibb.co/LXcMPwF7)
+ [To view power bi dashboard page 3 click here](https://ibb.co/DDvthgjv) 
+## dashboard
+![Screenshot 2025-05-09 224820](https://github.com/user-attachments/assets/9c19476d-2ad9-4e7d-9ede-734e79ca6dc3)
+
+## 🔍 Key Insights  
+> - 21.51% of the sales were made by females, while 78.49% were made by males.
+> - 4th Quarter has the highest number of sales
+> - Sales show a steady growth from January to August followed by sharp increases in September and November with the upward trend continuing into December.
+> - The majority of customers (2,000 out of 3,000) fall into the medium annual income range,
+meaning they earn between $500,000 and $1,000,000
+> - There’s no clear positive correlation between income and car price,higher income doesn’t always lead to buying more expensive cars purchased.
+> - Top 3 car model are Diamante, Prizm, Silhouette
+
+
 
 ## Recommendation
 > - `Gender Demographics`
