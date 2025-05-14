@@ -1,6 +1,6 @@
 # Car-Sales-Analysis
 
-##  Overview  
+_##  Overview_ 
 > This project explores car sales data to uncover trends, customer preferences, and key performance metrics.  
 It uses SQL for data querying, Excel for data analysis, and Power BI for interactive dashboards.
 
@@ -104,5 +104,5 @@ Focus on Females: With 21.51% of sales coming from females, consider strategies 
 Male Dominance: The majority of sales (78.49%) come from males. Explore what appeals to this demographic and ensure you're continuing to meet their needs.
 > - `Income vs. Car Price`
     Focus on offering a variety of vehicles that appeal to different income levels, rather than only high-end models.
-< - `Seasonal offers`
+> - `Seasonal offers`
    The sharp sales increase in these months shows a potential surge in demand. Ensure stock availability, marketing, and promotions are aligned with this trend.
